@@ -1,2 +1,3 @@
 # Bitacoras-Proyecto-algoritmos
-ese dia estube ayudando mucho con la parte de elejir un metodo en nuestro proyecto
+
+Este día junto con mi grup conformado pr Leonel Mon Santucho , Federico Cabral , Cesar Benitez(yo) , Juan Ojeda y Lautaro Pereyra. Nos repartimos en varias partes la tarea que subio el profesor , a mi me toco la parte de: Definición detallada del alcance del proyecto (qué se incluye y qué no). Yo estuve redactando esta pregunta preguntandole a mi grupo tambien que podia quitar , poner , modificar , etc. Luego de terminar el texto referido al alcance de nuestro proyecto mi grupo y yo lo analizamos y llegamos al punto de que era lo mas acorde a lo que se referia la pregunta. Coloque las personas a las que queriamos llegar , a las que no , un breve resumen de como era el proyecto y cual es su fin.
