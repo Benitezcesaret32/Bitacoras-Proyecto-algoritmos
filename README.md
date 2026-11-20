@@ -1,2 +1,2 @@
 # Bitacoras-Proyecto-algoritmos
-ese dia estube ayudando mucho con la parte de elejir un metodo en nuestro proyecto
+hoy estube viendo la parte del código nueva mente entre todos y llegamos a un punto en el que funcionaría pero no nos convence por compelto
