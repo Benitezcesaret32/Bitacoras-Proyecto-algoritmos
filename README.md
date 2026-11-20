@@ -1,2 +1,3 @@
 # Bitacoras-Proyecto-algoritmos
-ese dia estube ayudando mucho con la parte de elejir un metodo en nuestro proyecto
+este día estuvimos viendo los materiales y la forma de conectarlos
+para empesar a hacer todo
