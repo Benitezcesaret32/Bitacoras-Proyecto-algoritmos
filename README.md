@@ -1,2 +1,2 @@
 # Bitacoras-Proyecto-algoritmos
-ese dia estube ayudando mucho con la parte de elejir un metodo en nuestro proyecto
+hoy estube ayudando dando las ideas de como ir conectando las cosas y para hacer el código estamos intermedios
